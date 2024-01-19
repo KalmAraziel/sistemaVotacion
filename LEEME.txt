@@ -1,0 +1,20 @@
+PHP Version 8.2.4
+Mysql 5.2.1
+
+1-) Para poder instalar el proyecto de debe tener un servidor que este corriendo php 
+    (Para efectos de prueba descargar XAMPP https://www.apachefriends.org/es/download.html)
+
+2-) Para poder correr la base de datos se debe tener instalado MySql o MariaDb (XAMPP con phpMyAdmin)
+
+3-) Crear una base de datos llamada votacion
+
+4-) Importar el script llamado SQL/votacion.sql ya que contiene toda la estructura de la Base de Datos mas datos iniciales
+
+5-) Dejar en la carpeta raiz del servidor (HTDOCS en xampp) y dejar el proyecto sistemaVotacion
+
+6-) Ir al navegador web e ir a la direccion http://localhost/sistemaVotacion/ 
+
+
+
+
+
